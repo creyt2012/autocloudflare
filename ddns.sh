@@ -1,4 +1,4 @@
-#Bản quyền thuộc về creyt đẹp trai, hãy giữ nguyên nhằm tôn trọng người đẹp trai
+
 #!/bin/bash
 
 # Forked from creyt/cloudflare-update-record.sh
