@@ -4,7 +4,7 @@
 # Forked from creyt/cloudflare-update-record.sh
 # CHANGE THESE
 #API token của cloudflare
-auth_token="72652cf55847f6fea9195d44bdc5fa29e5c88"
+auth_token="zu90zrjZV1Q6NstJEG2i9eeoabFfmBULKEvq_h5L"
 # Domain and DNS record for synchronization
 zone_identifier="127831543b81a59694614cbc5d8cf516" # Can be found in the "Overview" tab of your domain
 record_name="dns.4gspeed.me"        
